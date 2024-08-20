@@ -1,0 +1,1 @@
+Thank you for the icons: [Link](https://github.com/yonkov/ionicons/tree/master)
